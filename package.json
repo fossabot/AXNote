@@ -1,0 +1,77 @@
+{
+  "name": "AXNote-Nuxt",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "commit": "git-cz",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint:js": "eslint --ext .ts,.js,.vue --ignore-path .gitignore .",
+    "lint:js:fix": "yarn lint:js --fix",
+    "lint": "yarn lint:js",
+    "lint:fix": "yarn lint:js:fix"
+  },
+  "lint-staged": {
+    "*.{js,vue}": "eslint"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-commit": "lint-staged"
+    }
+  },
+  "dependencies": {
+    "@kangc/v-md-editor": "^1.5.7",
+    "@nuxtjs/axios": "^5.12.5",
+    "@nuxtjs/dayjs": "^1.2.1",
+    "@nuxtjs/feed": "^2.0.0",
+    "@nuxtjs/robots": "^2.4.2",
+    "@nuxtjs/sitemap": "^2.4.0",
+    "@types/node": "^14.14.20",
+    "ant-design-vue": "^1.6.5",
+    "core-js": "^3.8.2",
+    "cross-env": "^7.0.3",
+    "is-mobile": "^2.2.2",
+    "leancloud-storage": "^4.8.2",
+    "lodash-es": "^4.17.20",
+    "nprogress": "^0.2.0",
+    "nuxt": "^2.14.6",
+    "nuxt-i18n": "^6.17.0",
+    "nuxt-sweetalert2": "^1.0.0",
+    "prismjs": "^1.23.0",
+    "vue-content-placeholders": "^0.2.1"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
+    "@nuxt/types": "^2.14.12",
+    "@nuxt/typescript-build": "^2.0.3",
+    "@nuxtjs/color-mode": "^2.0.2",
+    "@nuxtjs/composition-api": "^0.17.0",
+    "@nuxtjs/eslint-config": "^5.0.0",
+    "@nuxtjs/eslint-config-typescript": "^5.0.0",
+    "@nuxtjs/eslint-module": "^3.0.0",
+    "@nuxtjs/google-analytics": "^2.4.0",
+    "@nuxtjs/google-fonts": "^1.2.0",
+    "@nuxtjs/vercel-builder": "^0.18.1",
+    "@typescript-eslint/parser": "^4.12.0",
+    "babel-eslint": "^10.1.0",
+    "commitizen": "^4.2.2",
+    "eslint": "^7.17.0",
+    "eslint-plugin-nuxt": "^2.0.0",
+    "git-cz": "^4.7.6",
+    "husky": "^4.3.7",
+    "lint-staged": "^10.4.0",
+    "nuxt-purgecss": "^1.0.0",
+    "sass": "^1.32.2",
+    "sass-loader": "^10.1.0",
+    "vuex-module-decorators": "^1.0.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "git-cz"
+    }
+  }
+}
