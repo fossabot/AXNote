@@ -26,7 +26,7 @@ export default {
   css: [
     'ant-design-vue/dist/antd.css',
     'nprogress/nprogress.css',
-    '@/assets/style/index.scss'
+    '@/assets/css/index.scss'
   ],
 
   plugins: [
@@ -54,6 +54,7 @@ export default {
     '@nuxtjs/google-analytics',
     '@nuxtjs/google-fonts',
     '@nuxt/typescript-build',
+    '@nuxtjs/tailwindcss',
     'nuxt-purgecss'
   ],
 

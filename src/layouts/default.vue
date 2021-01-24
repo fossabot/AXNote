@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="py-12 px-6 w-3/4 max-w-8xl mx-auto">
     <Nuxt keep-alive />
   </div>
 </template>

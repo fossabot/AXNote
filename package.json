@@ -11,7 +11,8 @@
     "lint:js": "eslint --ext .ts,.js,.vue --ignore-path .gitignore .",
     "lint:js:fix": "yarn lint:js --fix",
     "lint": "yarn lint:js",
-    "lint:fix": "yarn lint:js:fix"
+    "lint:fix": "yarn lint:js:fix",
+    "preinstall": "npx only-allow yarn"
   },
   "lint-staged": {
     "*.{js,vue}": "eslint"
@@ -55,18 +56,24 @@
     "@nuxtjs/eslint-module": "^3.0.0",
     "@nuxtjs/google-analytics": "^2.4.0",
     "@nuxtjs/google-fonts": "^1.2.0",
+    "@nuxtjs/tailwindcss": "^3.4.2",
     "@nuxtjs/vercel-builder": "^0.18.1",
+    "@tailwindcss/postcss7-compat": "^2.0.2",
     "@typescript-eslint/parser": "^4.12.0",
+    "autoprefixer": "^9",
     "babel-eslint": "^10.1.0",
     "commitizen": "^4.2.2",
+    "css-loader": "^5.0.0",
     "eslint": "^7.17.0",
     "eslint-plugin-nuxt": "^2.0.0",
     "git-cz": "^4.7.6",
     "husky": "^4.3.7",
     "lint-staged": "^10.4.0",
     "nuxt-purgecss": "^1.0.0",
+    "postcss": "^7",
     "sass": "^1.32.2",
     "sass-loader": "^10.1.0",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
     "vuex-module-decorators": "^1.0.1"
   },
   "config": {

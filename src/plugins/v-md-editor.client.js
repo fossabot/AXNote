@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueMarkdownEditor from '@kangc/v-md-editor'
 import '@kangc/v-md-editor/lib/style/base-editor.css' // Base Style
 import vuepressTheme from '@kangc/v-md-editor/lib/theme/vuepress.js' // Theme
+import '@kangc/v-md-editor/lib/theme/style/vuepress.css'
 import createEmojiPlugin from '@kangc/v-md-editor/lib/plugins/emoji' // Emoji Plugin
 import createTodoListPlugin from '@kangc/v-md-editor/lib/plugins/todo-list' // Todo List Plugin
 import createHighlightLinesPlugin from '@kangc/v-md-editor/lib/plugins/highlight-lines' // Highlight Lines Plugin
