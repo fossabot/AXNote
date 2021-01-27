@@ -67,7 +67,7 @@
     "eslint": "^7.17.0",
     "eslint-plugin-nuxt": "^2.0.0",
     "git-cz": "^4.7.6",
-    "husky": "^4.3.7",
+    "husky": "^4.3.8",
     "lint-staged": "^10.4.0",
     "nuxt-purgecss": "^1.0.0",
     "postcss": "^7",
