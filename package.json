@@ -64,7 +64,7 @@
     "babel-eslint": "^10.1.0",
     "commitizen": "^4.2.2",
     "css-loader": "^5.0.0",
-    "eslint": "^7.17.0",
+    "eslint": "^7.18.0",
     "eslint-plugin-nuxt": "^2.0.0",
     "git-cz": "^4.7.6",
     "husky": "^4.3.7",
