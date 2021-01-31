@@ -71,7 +71,7 @@
     "lint-staged": "^10.4.0",
     "nuxt-purgecss": "^1.0.0",
     "postcss": "^7",
-    "sass": "^1.32.2",
+    "sass": "^1.32.5",
     "sass-loader": "^10.1.0",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat",
     "vuex-module-decorators": "^1.0.1"
