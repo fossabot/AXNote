@@ -1,0 +1,15 @@
+autoOpen: true
+apps:
+  - port: 3000
+    run: yarn dev
+    root: .
+    name: AXNote - DEV
+    description: AXNote开发模式
+    autoOpen: true
+
+  - port: 3000
+    run: yarn start
+    root: .
+    name: AXNote - PROD
+    description: AXNote生产模式
+    autoOpen: true

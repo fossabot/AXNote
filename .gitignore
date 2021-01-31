@@ -97,3 +97,6 @@ sw.*
 
 # Cache folder
 cache/
+
+# Unknown Core.* file
+core.*
