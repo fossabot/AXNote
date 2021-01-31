@@ -30,7 +30,7 @@
     "@nuxtjs/feed": "^2.0.0",
     "@nuxtjs/robots": "^2.4.2",
     "@nuxtjs/sitemap": "^2.4.0",
-    "@types/node": "^14.14.20",
+    "@types/node": "^14.14.22",
     "ant-design-vue": "^1.6.5",
     "core-js": "^3.8.3",
     "cross-env": "^7.0.3",
