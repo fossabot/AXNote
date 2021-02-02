@@ -31,7 +31,6 @@ export default {
 
   plugins: [
     '@/plugins/antd-ui',
-    '@/plugins/v-md-editor.client',
     '@/plugins/nprogress.client'
   ],
 
@@ -41,7 +40,6 @@ export default {
     '@nuxtjs/axios',
     'nuxt-i18n',
     'nuxt-sweetalert2',
-    '@nuxtjs/dayjs',
     '@nuxtjs/robots',
     '@nuxtjs/feed',
     '@nuxtjs/sitemap'
