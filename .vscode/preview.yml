@@ -8,7 +8,7 @@ apps:
     autoOpen: true
 
   - port: 3000
-    run: yarn start
+    run: yarn build && yarn start
     root: .
     name: AXNote - PROD
     description: AXNote生产模式
