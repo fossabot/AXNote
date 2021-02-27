@@ -908,10 +908,10 @@
   dependencies:
     remark-gemoji "^6.0.0"
 
-"@bytemd/plugin-gfm@1.3.2":
-  version "1.3.2"
-  resolved "https://registry.yarnpkg.com/@bytemd/plugin-gfm/-/plugin-gfm-1.3.2.tgz#5abbe5c97d3141d7ab869ccf03a0a7eb8697a97a"
-  integrity sha512-g9qABoxnc3p8qyKI6Tk3hUNutlQ/555svfi67chb+smfq0Hyr1Vkbk/Nxpq6dbr3Kl1/XRT4im+v0SuMYuODhg==
+"@bytemd/plugin-gfm@1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@bytemd/plugin-gfm/-/plugin-gfm-1.4.0.tgz#9eda629da7cfdb1f4395cdab35d10fbea1e69205"
+  integrity sha512-eAW0RdT6IuaS2kz4/yNV6xl0fVC/f9h17JD62izR/sy134MqBnXWZryNEzuCnd4Vo1pP8p7P7Fy8LLmLmZLbmw==
   dependencies:
     remark-gfm "^1.0.0"
 
