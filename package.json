@@ -64,7 +64,7 @@
     "autoprefixer": "9.8.6",
     "babel-eslint": "10.1.0",
     "commitizen": "4.2.3",
-    "css-loader": "5.0.1",
+    "css-loader": "5.1.0",
     "eslint": "7.18.0",
     "eslint-plugin-nuxt": "2.0.0",
     "git-cz": "4.7.6",
