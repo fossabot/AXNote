@@ -871,12 +871,12 @@
   resolved "https://registry.npm.taobao.org/@braintree/sanitize-url/download/@braintree/sanitize-url-3.1.0.tgz#8ff71d51053cd5ee4981e5a501d80a536244f7fd"
   integrity sha1-j/cdUQU81e5JgeWlAdgKU2JE9/0=
 
-"@bytemd/plugin-breaks@1.3.0":
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/@bytemd/plugin-breaks/-/plugin-breaks-1.3.0.tgz#80ad7ec3946659e2df0b12cd21c8a182fbd2c1e8"
-  integrity sha512-zJZqiuQPqOhgdzXLTa7WhOsCW+Hg4OXYajE22HRC1p/EaXRpy9SPENano/pvHgsiQ1Z9k2BbfKDe5TaKBBDZXQ==
+"@bytemd/plugin-breaks@1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@bytemd/plugin-breaks/-/plugin-breaks-1.4.0.tgz#c7c54238e3f4f11a69146fdd96a1cae77efa1173"
+  integrity sha512-sQ0J5qonhCacehIBdy+g3DndzfTc8KsGvVY9JCyXEqhcrQ81JRIFj2fO5tVaJ7zYz1jFKw8iwgfaoHSOMFQS2Q==
   dependencies:
-    remark-breaks "^2.0.0"
+    remark-breaks "^2.0.1"
 
 "@bytemd/plugin-external-links@1.3.0":
   version "1.3.0"
@@ -10811,10 +10811,10 @@ relateurl@^0.2.7:
   resolved "https://registry.npm.taobao.org/relateurl/download/relateurl-0.2.7.tgz#54dbf377e51440aca90a4cd274600d3ff2d888a9"
   integrity sha1-VNvzd+UUQKypCkzSdGANP/LYiKk=
 
-remark-breaks@^2.0.0:
+remark-breaks@^2.0.1:
   version "2.0.1"
-  resolved "https://registry.npm.taobao.org/remark-breaks/download/remark-breaks-2.0.1.tgz#5dfe54e5b9ab65cfa1e25d6810fb556dda1c8ec1"
-  integrity sha1-Xf5U5bmrZc+h4l1oEPtVbdocjsE=
+  resolved "https://registry.yarnpkg.com/remark-breaks/-/remark-breaks-2.0.1.tgz#5dfe54e5b9ab65cfa1e25d6810fb556dda1c8ec1"
+  integrity sha512-CZKI8xdPUnvMqPxYEIBBUg8C0B0kyn14lkW0abzhfh/P71YRIxCC3wvBh6AejQL602OxF6kNRl1x4HAZA07JyQ==
 
 remark-footnotes@^3.0.0:
   version "3.0.0"

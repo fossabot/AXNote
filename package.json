@@ -15,7 +15,7 @@
     "preinstall": "npx only-allow yarn"
   },
   "dependencies": {
-    "@bytemd/plugin-breaks": "1.3.0",
+    "@bytemd/plugin-breaks": "1.4.0",
     "@bytemd/plugin-external-links": "1.3.0",
     "@bytemd/plugin-footnotes": "1.3.0",
     "@bytemd/plugin-frontmatter": "1.1.0",
