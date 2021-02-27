@@ -60,7 +60,7 @@
     "@nuxtjs/tailwindcss": "3.4.2",
     "@nuxtjs/vercel-builder": "0.19.0",
     "@tailwindcss/postcss7-compat": "2.0.2",
-    "@typescript-eslint/parser": "4.14.1",
+    "@typescript-eslint/parser": "4.15.2",
     "autoprefixer": "9.8.6",
     "babel-eslint": "10.1.0",
     "commitizen": "4.2.3",
