@@ -944,10 +944,10 @@
   resolved "https://registry.yarnpkg.com/@bytemd/plugin-inject-style/-/plugin-inject-style-1.1.0.tgz#55566294e9c37cd8967d1cd25c041826b931190b"
   integrity sha512-mbAV1scP1Yiwu8LxdMvEWgqIJW8U7jKIWD7R6p61jqDqHVueKZP3lUc0GYmbeR2ObF+2TJCPgOOXLXLYFa5kxA==
 
-"@bytemd/plugin-math-ssr@1.3.2":
-  version "1.3.2"
-  resolved "https://registry.yarnpkg.com/@bytemd/plugin-math-ssr/-/plugin-math-ssr-1.3.2.tgz#9c0c334631124c6d05db332c642a09e5566d92c8"
-  integrity sha512-2BG2mF15gy/7eDhiCHen6dEgiwPMrtwnw1P4zm3UnW8KJoxGWAoy9r+NGWFBQDFT0IdsVN8Yn9PUHVCI+IVU4A==
+"@bytemd/plugin-math-ssr@1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@bytemd/plugin-math-ssr/-/plugin-math-ssr-1.4.0.tgz#6b405ebdd142bf52f62b714a4b7aa56384f70259"
+  integrity sha512-nkdyrdTsvsomKjT3uEYJdKQ+lEHhHh9OgBvgHj1Z0pChKCaMTM50iL2jElKg96EoTLqipzGusc4f0x7LJtsm2w==
   dependencies:
     rehype-katex "^4.0.0"
     remark-math "^4.0.0"
