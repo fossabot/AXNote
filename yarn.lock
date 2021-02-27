@@ -885,10 +885,10 @@
   dependencies:
     unist-util-visit "^2.0.0"
 
-"@bytemd/plugin-footnotes@1.3.0":
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/@bytemd/plugin-footnotes/-/plugin-footnotes-1.3.0.tgz#37050055df4fb0e4d436b6f79f2a9113d8771f75"
-  integrity sha512-H1cPGdBZfeWLbdtaxjw/6ougpsZL/2CFN6hsDLHIyH66wY1sU8On+nY35WE0YZ2VPUYSxcj2B5JoEJE33oKCrw==
+"@bytemd/plugin-footnotes@1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@bytemd/plugin-footnotes/-/plugin-footnotes-1.4.0.tgz#e38c19c965b3f4adb5f42ad1bdf8fd1f6ab8fac2"
+  integrity sha512-nXAv6osTS5+MEIfH655lHIVuAgFFoKGbi5cLfzlwjs6RMK0/HGHNVwzNNS9KmDo/emgx7bz229LP/GI0xB9Z/g==
   dependencies:
     remark-footnotes "^3.0.0"
 
