@@ -26,7 +26,7 @@
     "@bytemd/plugin-import-image": "1.3.2",
     "@bytemd/plugin-inject-style": "1.1.0",
     "@bytemd/plugin-math-ssr": "1.3.2",
-    "@bytemd/plugin-medium-zoom": "1.3.0",
+    "@bytemd/plugin-medium-zoom": "1.4.0",
     "@bytemd/plugin-mermaid": "1.3.2",
     "@bytemd/vue": "1.3.4",
     "@nuxtjs/axios": "5.12.5",
